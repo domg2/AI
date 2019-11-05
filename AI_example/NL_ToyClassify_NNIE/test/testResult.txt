@@ -1,0 +1,20 @@
+./data/20190809_IMG_1355_2.jpg,307,277,3
+2
+ Class Name: banana 3 Scores: 0.999268
+ Class Name: aeroplane 0 Scores: 0
+./data/20190809_IMG_1543_5.jpg,167,177,3
+2
+ Class Name: banana 3 Scores: 0.997803
+ Class Name: apple 1 Scores: 0.000488281
+./data/COCO_train2014_000000010546_1.jpg,64,73,3
+2
+ Class Name: backpack 2 Scores: 0.955811
+ Class Name: car 11 Scores: 0.0288086
+./data/IMG_20190722_111916_BURST9_1.jpg,233,362,3
+2
+ Class Name: aeroplane 0 Scores: 0.943115
+ Class Name: fork 18 Scores: 0.00805664
+./data/IMG_20190724_092950_BURST22_1.jpg,186,179,3
+2
+ Class Name: apple 1 Scores: 0.998535
+ Class Name: mouse 27 Scores: 0.000488281

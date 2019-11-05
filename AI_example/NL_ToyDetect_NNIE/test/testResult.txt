@@ -1,0 +1,15 @@
+./data/IMG_20190722_112632_BURST92.jpg,800,600,3,
+Object name : mouse , Score: 0.899998 positon: 135,4,255,109
+Object name : rightRound , Score: 0.85364 positon: 322,142,478,330
+./data/IMG_20190724_092832_BURST42.jpg,806,604,3,
+Object name : banana , Score: 0.822756 positon: 144,268,564,557
+./data/IMG_20190724_093006_BURST99.jpg,806,604,3,
+Object name : goStraight , Score: 0.819925 positon: 120,197,418,529
+Object name : cat , Score: 0.698977 positon: 8,57,498,388
+Object name : mouse , Score: 0.652429 positon: 430,322,511,399
+./data/IMG_20190809_171030.jpg,832,624,3,
+Object name : horn , Score: 0.845851 positon: 277,302,406,430
+Object name : stopsign , Score: 0.783689 positon: 363,196,474,325
+Object name : park , Score: 0.734395 positon: 205,224,264,332
+Object name : noLeft , Score: 0.719125 positon: 257,512,399,665
+Object name : goStraight , Score: 0.571868 positon: 501,145,596,253

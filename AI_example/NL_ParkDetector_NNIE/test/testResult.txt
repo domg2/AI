@@ -1,0 +1,5 @@
+./data/3.jpg
+1080,1920,3Park Position1 Status: 0
+Park Position2 Status: 1
+Park Position3 Status: 1
+Park Position4 Status: 1
